@@ -1,8 +1,8 @@
 public class DateTime{
    // fields to store date, month, and year
-private int day;
-private int month;
-private int year;
+public  int day;
+public int month;
+public int year;
 
 public DateTime(int day, int month, int year) {
     this.day = day;
